@@ -1,0 +1,8 @@
+node_modules/
+test-results/
+server.log
+server-error.log
+screenshot-*.png
+.npm-cache/
+.local/
+server-v3*.log
